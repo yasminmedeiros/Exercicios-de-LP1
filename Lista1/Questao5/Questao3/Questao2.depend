@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575253428 source:c:\users\yasmi\desktop\roteiro1\questao2\src\invoice.cpp
+	"Invoice.h"
+	<string>
+
+1575252248 c:\users\yasmi\desktop\roteiro1\questao2\include\invoice.h
+	<string>
+

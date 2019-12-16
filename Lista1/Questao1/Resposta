@@ -1,0 +1,19 @@
+Questão 1-  Resposta
+a)Uma classe é o agrupamento de objetos com a mesma estrutura de dados (definida
+pelos atributos ou propriedades) e comportamento (operações), ou seja, classe 
+são as descrições dos objetos.Já um objeto é uma instância da classe, sendo algo 
+distinguível que contém atributos (ou propriedades) e possui um comportamento, 
+passíveis de serem determinados pelos seus métodos.
+b)É um método que determina que ações devem ser executadas é inicializado um
+objeto.
+c)  O objeto é disponibilizado ao usuário com toda a sua funcionalidade, 
+sem a necessidade de conhecermos seu funcionamento ou armazenamento interno, 
+também é possível modificar um objeto internamente, acrescentando métodos, 
+sem que isto afete os outros componentes do sistema que utilizam o objeto 
+modificado (manutenabilidade), além disso o processo de desenvolvimento de 
+sistemas é acelerado e simplificado, já que os usuários dos objetos não
+precisam necessariamente saber como eles são constituídos internamente, e
+também a implementação de um comportamento pode ser modificada 
+radicalmente sem que haja impacto no resto do programa, isto é possível
+porque o código que utiliza o objeto não depende da maneira que ele é 
+implementado.

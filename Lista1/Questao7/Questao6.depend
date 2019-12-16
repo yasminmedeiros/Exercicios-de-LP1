@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1575142531 source:c:\users\yasmi\desktop\roteiro1\questao6\main.cpp
+	<iostream>
+	"ControleDePagamentos.h"
+	<string>
+
+1575177221 source:c:\users\yasmi\desktop\roteiro1\questao6\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+	"Pagamento.h"
+	<string>
+
+1575140266 c:\users\yasmi\desktop\roteiro1\questao6\include\controledepagamentos.h
+	"Pagamento.h"
+	<string>
+
+1575138542 c:\users\yasmi\desktop\roteiro1\questao6\include\pagamento.h
+	<string>
+
+1575141014 source:c:\users\yasmi\desktop\roteiro1\questao6\src\pagamento.cpp
+	"Pagamento.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575251160 source:c:\users\yasmi\desktop\roteiro1\questao4\src\pessoa.cpp
+	"Pessoa.h"
+	<string>
+
+1575251192 c:\users\yasmi\desktop\roteiro1\questao4\include\pessoa.h
+	<string>
+
+1575123306 source:c:\users\yasmi\desktop\roteiro1\questao4\main.cpp
+	<iostream>
+	"Pessoa.h"
+	<string>
+
