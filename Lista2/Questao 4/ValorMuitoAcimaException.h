@@ -1,12 +1,13 @@
 #pragma once
 #include <exception>
+#include <string>
 
-class ValorMuitoAcimaException
+class ValorMuitoAcimaException : public std::exception
 {
 private:
-    /* data */
+    std::string mensagem="Erro, valor muito acima.\n";
 public:
     ValorMuitoAcimaException(/* args */);
-    ~ValorMuitoAcimaException();
+    std::string getMensagem();
 };
 
